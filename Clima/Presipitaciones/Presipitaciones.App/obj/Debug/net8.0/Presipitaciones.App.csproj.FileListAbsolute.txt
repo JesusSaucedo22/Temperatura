@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\programas\Clima\Presipitaciones\Presipitaciones.App\bin\Debug\net8.0\Presipitaciones.App.exe
+C:\Users\Acer\Desktop\programas\Clima\Presipitaciones\Presipitaciones.App\bin\Debug\net8.0\Presipitaciones.App.deps.json
+C:\Users\Acer\Desktop\programas\Clima\Presipitaciones\Presipitaciones.App\bin\Debug\net8.0\Presipitaciones.App.runtimeconfig.json
+C:\Users\Acer\Desktop\programas\Clima\Presipitaciones\Presipitaciones.App\bin\Debug\net8.0\Presipitaciones.App.dll
+C:\Users\Acer\Desktop\programas\Clima\Presipitaciones\Presipitaciones.App\bin\Debug\net8.0\Presipitaciones.App.pdb
+C:\Users\Acer\Desktop\programas\Clima\Presipitaciones\Presipitaciones.App\obj\Debug\net8.0\Presipitaciones.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\programas\Clima\Presipitaciones\Presipitaciones.App\obj\Debug\net8.0\Presipitaciones.App.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\programas\Clima\Presipitaciones\Presipitaciones.App\obj\Debug\net8.0\Presipitaciones.App.AssemblyInfo.cs
+C:\Users\Acer\Desktop\programas\Clima\Presipitaciones\Presipitaciones.App\obj\Debug\net8.0\Presipitaciones.App.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\programas\Clima\Presipitaciones\Presipitaciones.App\obj\Debug\net8.0\Presipitaciones.App.dll
+C:\Users\Acer\Desktop\programas\Clima\Presipitaciones\Presipitaciones.App\obj\Debug\net8.0\refint\Presipitaciones.App.dll
+C:\Users\Acer\Desktop\programas\Clima\Presipitaciones\Presipitaciones.App\obj\Debug\net8.0\Presipitaciones.App.pdb
+C:\Users\Acer\Desktop\programas\Clima\Presipitaciones\Presipitaciones.App\obj\Debug\net8.0\Presipitaciones.App.genruntimeconfig.cache
+C:\Users\Acer\Desktop\programas\Clima\Presipitaciones\Presipitaciones.App\obj\Debug\net8.0\ref\Presipitaciones.App.dll
